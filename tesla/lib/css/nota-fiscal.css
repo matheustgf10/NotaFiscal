@@ -1,0 +1,45 @@
+#logo{
+	align-content: left;
+	height: 60px;
+	width: 60px;
+}
+
+
+#container {
+    width: 100%;
+    /*border-color: blue;*/
+    text-align: center;
+}
+
+.box {
+    float: left;
+    width: 100px;
+    height: 20px;
+    margin: 10px 100px;
+    border: 1px transparent;
+}
+
+.box.two{
+	/*background-color: green;*/
+}
+
+/*
+#mediaImage{
+    float: left;
+    width: 10px;
+    height: 20px;
+    margin: 10px 10px;
+    border: 1px transparent;
+	
+
+}*/
+/*
+#media{
+	margin: 1px 1px;
+	width: 600px;
+	height: 100px;
+}
+*/
+/*#box-1 { background-color: red; }*/
+/*#box-2 { background-color: green; }*/
+/*#box-3 { background-color: pink; }*/
